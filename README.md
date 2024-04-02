@@ -19,6 +19,8 @@ Run the script and input the number of people when prompted.
 
 The script will run simulations and plot the probability of a birthday match for different group sizes.
 
+---
+
 ## birthday_paradox_visualization.py
 
 This script simulates the Birthday Paradox through random simulations. 

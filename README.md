@@ -7,7 +7,6 @@ The Birthday Paradox refers to the counterintuitive probability that in a group 
 relatively few people, it's likely that at least two individuals share the same birthday.
 
 ## birthday_paradox_simulation.py
-### Purpose
 
 This script calculates the theoretical probability of the Birthday Paradox based on mathematical formulas. 
 
@@ -21,7 +20,6 @@ Run the script and input the number of people when prompted.
 The script will run simulations and plot the probability of a birthday match for different group sizes.
 
 ## birthday_paradox_visualization.py
-### Purpose
 
 This script simulates the Birthday Paradox through random simulations. 
 
